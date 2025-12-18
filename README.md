@@ -1,5 +1,6 @@
 # pi-hole-lists
 
+```
 ! Title : pwd ’ s Swiss News Paper Blocker
 ! Description : Blocks Attribution & Marketing (20 Minuten / Blick )
 (\.|^) adjust \. com$
@@ -15,3 +16,4 @@
 (\.|^) onesignal \. com$
 (\.|^) teads \. tv$
 (\.|^) ocdn \. eu$
+```
