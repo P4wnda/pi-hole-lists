@@ -1,1 +1,17 @@
 # pi-hole-lists
+
+! Title : pwd ’ s Swiss News Paper Blocker
+! Description : Blocks Attribution & Marketing (20 Minuten / Blick )
+(\.|^) adjust \. com$
+(\.|^) adjust \. io$
+(\.|^) purchasely \. io$
+(\.|^) relevant - digital \. com$
+# Analytics & Audience Measurement ( Alle Apps )
+# Erfasst scorecardresearch , mpulse etc . komplett
+(\.|^) scorecardresearch \. com$
+(\.|^) go - mpulse \. net$
+(\.|^) realtimely \. io$
+# Push & Ad - Tech ( Blick / 20 Minuten )
+(\.|^) onesignal \. com$
+(\.|^) teads \. tv$
+(\.|^) ocdn \. eu$
